@@ -1,0 +1,87 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+
+body {
+    color: #333;
+    #background-color: #f6f6f6;
+    #font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-family: 'PT Sans', sans-serif;
+    padding: 40px;
+    max-width: 42em;
+}
+
+blockquote {
+    font-size: 15px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+#wrapper.container {
+    margin: auto;
+    padding-top: 50px;
+    min-height: 100%;
+    position: relative;
+}
+
+.row {
+    padding-bottom: 100px;
+}
+
+footer {
+    width:100%;
+    height:70px;
+    position:absolute;
+    bottom:0;
+    left:0;
+    text-align: center;
+    font-size: 11px;
+}
+
+nav h1 {
+    margin: 0;
+}
+
+#sidebar {
+    font-size: 13px;
+    background-color: #fff;
+    border: 0px solid #cecece;
+    border-radius: 8px;
+    padding:15px;
+}
+
+content {
+    background-color: #fff;
+    border: 0px solid #cecece;
+    border-radius: 8px;
+    padding:10px;
+}
+
+#prev-next {
+    padding: 10px;
+    text-align: center;
+}
+
+#post-header {
+    margin-bottom: 53px;
+}
+#post-header h2 {
+    font-size: 32px;
+    margin-bottom: -15px;
+}
+#post-header #post-meta {
+    font-size: 13px;
+    float: right;
+    margin-top: 25px;
+}
+#page-header {
+    margin-bottom: 30px;
+}
+#page-header h2 {
+    font-size: 32px;
+    margin-bottom: -15px;
+}
+pre {
+    background-color: #f0f0f0;
+}
+
+

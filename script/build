@@ -1,0 +1,18 @@
+#!/bin/bash
+
+type planck >/dev/null 2>&1 || { echo >&2 "planck is required. See http://planck.fikesfarm.com  Aborting."; exit 1; }
+
+MARKDOWN_CLJ_VER="0.9.85"
+
+MARKDOWN_CLJ_JAR=~/.m2/repository/markdown-clj/markdown-clj/$MARKDOWN_CLJ_VER/markdown-clj-$MARKDOWN_CLJ_VER.jar
+
+if [ ! -f $MARKDOWN_CLJ_JAR ]; then
+    pushd script
+    type lein >/dev/null 2>&1 || { echo >&2 "lein is required. See http://leiningen.org  Aborting."; exit 1; }
+    lein deps
+    popd
+    # Shouldn't have to blow away cache. Perhaps this is a bug in Planck.
+    rm -rf script/cache/*
+fi
+
+planck -c $MARKDOWN_CLJ_JAR -kscript/cache script/build.cljs

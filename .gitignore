@@ -1,0 +1,5 @@
+.DS_Store
+script/cache/*.js
+script/cache/*.json
+script/target
+target
