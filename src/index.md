@@ -23,6 +23,10 @@ Resources for developers using ClojureScript to build React Native apps.
 
 [Re-Natal](https://github.com/drapanjanas/re-natal): A fork of Natal that sets things up to use the Figwheel via Chrome [approach](https://github.com/decker405/figwheel-react-native).
 
+### Boot-React-Native
+
+[boot-react-native](https://github.com/mjmeintjes/boot-react-native) : Provides [boot](http://boot-clj.com/) tasks for integrating with React Native packager and build process
+
 ## Posts
 
 Blog posts pertaining to ClojureScript with React Native and associated tooling.
