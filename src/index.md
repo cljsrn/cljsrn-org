@@ -25,7 +25,7 @@ Resources for developers using ClojureScript to build React Native apps.
 
 ### Boot-React-Native
 
-[boot-react-native](https://github.com/mjmeintjes/boot-react-native) : Provides [boot](http://boot-clj.com/) tasks for integrating with React Native packager and build process
+[boot-react-native](https://github.com/mjmeintjes/boot-react-native): Provides [boot](http://boot-clj.com/) tasks for integrating with React Native packager and build process.
 
 ## Posts
 
