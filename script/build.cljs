@@ -25,9 +25,9 @@
   (md-to-html
     (str src in) (str public (subs in 0 (- (count in) 2)) "html")))
 
-(sh "mkdir" target)
+(sh "mkdir" "-p" target)
 (sh "rm" "-rf" public)
-(sh "mkdir" public)
+(sh "mkdir" "-p" public)
 
 (process-md "index.md")
 (process-md "roadmap.md")
