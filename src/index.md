@@ -31,6 +31,7 @@ Resources for developers using ClojureScript to build React Native apps.
 
 Blog posts pertaining to ClojureScript with React Native and associated tooling.
 
+- [Yes, we can. Cross-platform native mobile applications development](https://medium.com/@alwxdev/yes-we-can-cross-platform-native-mobile-applications-development-e315300d011e#.pd3zwhfam) <span style='font-size:80%'>(2016-01-28 — medium.com)</span>
 - [ClojureScript React Native Desktop](http://blog.fikesfarm.com/posts/2015-11-19-clojurescript-react-native-desktop.html) <span style='font-size:80%'>(2015-11-19 — blog.fikesfarm.com)</span>
 - [Going native with om.next](https://dvcrn.github.io/clojurescript/react/2015/10/27/going-native-with-om-next.html) <span style='font-size:80%'>(2015-10-27 — dvcrn.github.io)</span>
 - [Ambly Require Reload](http://blog.fikesfarm.com/posts/2015-10-07-ambly-require-reload.html) <span style='font-size:80%'>(2015-10-07 — blog.fikesfarm.com)</span>
