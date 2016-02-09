@@ -17,7 +17,7 @@ Resources for developers using ClojureScript to build React Native apps.
 
 ### Natal / Ambly
 
-[Natal](https://github.com/dmotz/natal): A simple command-line utility to quickly get you [set up with Ambly](ambly.html) with [Natal Shell](https://github.com/dmotz/natal-shell) convenience wrappers.
+[Natal](https://github.com/dmotz/natal): A simple command-line utility to quickly get you set up with Ambly with [Natal Shell](https://github.com/dmotz/natal-shell) convenience wrappers.
 
 ### Re-Natal / Figwheel
 

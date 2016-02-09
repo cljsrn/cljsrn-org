@@ -31,7 +31,6 @@
 
 (process-md "index.md")
 (process-md "roadmap.md")
-(process-md "ambly.md")
 
 (sh "cp" "-r" (str src "img") public)
 (sh "cp" "-r" (str src "css") public)
