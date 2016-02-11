@@ -51,6 +51,7 @@ Blog posts pertaining to ClojureScript with React Native and associated tooling.
 
 Slides, demos, talks, _etc._ pertaining to ClojureScript with React Native and associated tooling.
 
+- [React Native with ClojureScript](https://github.com/langford/ReactNativeWithClojureScriptPreso/blob/master/ReactNativeWithClojureScript.pdf) <span style='font-size:80%'>(2016-02-11 — Michael Langford)</span>
 - [Mobile Apps with ClojureScript](https://youtu.be/GDA-g6Ca_dQ) <span style='font-size:80%'>(2015-11-16 — Jearvon Dharrie)</span>
 - [Demand Driven iOS apps with Om and React Native](https://youtu.be/oJ8t8Hc9XaE) ([Slides](http://www.slideshare.net/dvcrn/demand-driven-applications-with-omnext-and-react-native-55185632)) <span style='font-size:80%'>(2015-11-13 — David Mohl)</span>
 - [Native Mobile Apps with Clojure(Script)](https://groups.google.com/forum/#!topic/boston-clojure/z2sA9rvFV7s) <span style='font-size:80%'>(2015-09-10 — Chris Vermillion)</span>
