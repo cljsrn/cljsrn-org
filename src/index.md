@@ -10,7 +10,7 @@ Resources for developers using ClojureScript to build React Native apps.
 
 ## Discussion
 
-* Slack: `#cljsrn` channel in [Clojurians](https://clojurians.slack.com) Slack.
+* Slack: `#cljsrn` channel in [Clojurians](http://clojurians.net) Slack.
 * IRC: `#clojurescript` channel on [freenode.net](https://freenode.net)
 
 ## Using
