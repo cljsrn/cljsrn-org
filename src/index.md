@@ -15,17 +15,17 @@ Resources for developers using ClojureScript to build React Native apps.
 
 ## Using
 
-### Natal / Ambly
+### Re-Natal
 
-[Natal](https://github.com/dmotz/natal): A simple command-line utility to quickly get you set up with Ambly with [Natal Shell](https://github.com/dmotz/natal-shell) convenience wrappers.
-
-### Re-Natal / Figwheel
-
-[Re-Natal](https://github.com/drapanjanas/re-natal): A fork of Natal that sets things up to use the Figwheel via Chrome [approach](https://github.com/decker405/figwheel-react-native).
+[Re-Natal](https://github.com/drapanjanas/re-natal) is the most popular and most actively developed.  The consensus on #cljsrn slack channel is that it's probably the way to go.  It supports react-native 0.21, Reagent and Om.Next, ios and android, fast CLJS compilation+injection during development, and has a nice way to require native packages and static images.
 
 ### Boot-React-Native
 
-[boot-react-native](https://github.com/mjmeintjes/boot-react-native): Provides [boot](http://boot-clj.com/) tasks for integrating with React Native packager and build process.
+[boot-react-native](https://github.com/mjmeintjes/boot-react-native) uses similar javascript techniques for hooking into the react-native packager and providing a REPL, except packaged for [boot](http://boot-clj.com/).  It's on an older version of react-native (0.20 vs 0.21) and less actively developed, but does have some cool features such as combining the react-native packager's console output with cljs compiler's.  It's also a bit more lightweight than re-natal.
+
+### Natal
+
+[Natal](https://github.com/dmotz/natal) was the original approach, from which re-natal was forked.
 
 ## Posts
 
