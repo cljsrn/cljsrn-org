@@ -77,6 +77,7 @@ Slides, demos, talks, _etc._ pertaining to ClojureScript with React Native and a
 * Matt Meintjes's [Re-Frame React Native TicTacToe](https://github.com/mjmeintjes/cljs-react-native-tictactoe).
 * Nicholas Kariniemi's [proof of concept](https://github.com/nicholaskariniemi/ReactNativeCljs) for compiling ClojureScript for use on React Native for Android.
 * Artem Yarulin's [react-native-eval](https://github.com/artemyarulin/react-native-eval).
+* Viktor Eriksson's [re-navigate](https://github.com/vikeri/re-navigate), an example of using React Native's new Navigation with re-frame/re-natal
 
 ## Apps
 
