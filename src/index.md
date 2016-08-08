@@ -30,7 +30,7 @@ Resources for developers using ClojureScript to build React Native apps.
 ## Posts
 
 Blog posts pertaining to ClojureScript with React Native and associated tooling.
-
+- [My experience with Clojurescript and React Native](https://medium.com/@tiensonqin/my-experience-with-clojurescript-and-react-native-81bb1d3bb2c4#.4pd73s8z2) <span style='font-size:80%'>(2016-08-06 — medium.com)</span>
 - [React Native: Summing up](https://medium.com/@alwxdev/react-native-summing-up-86838441d289#.jwb21cuwn) <span style='font-size:80%'>(2016-06-24 — medium.com)</span>
 - [Create iOS apps on Linux using React Native and ClojureScript](https://johannesgu.wordpress.com/2016/03/28/create-ios-apps-on-linux-using-react-native-and-clojurescript/) <span style='font-size:80%'>(2016-03-28 — johannesgu.wordpress.com)</span>
 - [Yes, we can. Cross-platform native mobile applications development](https://medium.com/@alwxdev/yes-we-can-cross-platform-native-mobile-applications-development-e315300d011e#.pd3zwhfam) <span style='font-size:80%'>(2016-01-28 — medium.com)</span>
@@ -90,12 +90,13 @@ Apps built using ClojureScript and React Native.
 - [webMailReader](http://fessguid.com): Using React Native under the hood, with part of business logic in ClojureScript.
 - [QTTT](https://github.com/mfikes/qttt): A port of Luke Vanderhart's web app to use Om on React Native. [Try it online](https://appetize.io/app/8kap5c0m9r3wjjdm45c416rbug?device=iphone5s&scale=75&orientation=portrait&osVersion=8.4).
 - Snapability ([iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1124758443&mt=8) / [Android](https://play.google.com/store/apps/details?id=net.snapability)): An OCR app built with re-natal and re-frame.
+- [Lym](https://www.lymchat.com): Your interests backpack, built with clojure, cljs, re-natal, re-frame, and realm.
 
 ## Companies
 
 Companies using ClojureScript and React Native to build solutions.
 
-<p><a href="http://fig.ly"><img style="width: 90px;" src="img/logos/figly.png"/></a> &nbsp;&nbsp; <a href="https://www.iamfy.co"><img style="width: 60px;" src="img/logos/fy.png"/></a> &nbsp;&nbsp; <a href="http://goo.gl/niaBLZ"><img style="width: 120px;" src="img/logos/lgs.png"/></a></p>
+<p><a href="http://fig.ly"><img style="width: 90px;" src="img/logos/figly.png"/></a> &nbsp;&nbsp; <a href="https://www.iamfy.co"><img style="width: 60px;" src="img/logos/fy.png"/></a> &nbsp;&nbsp; <a href="http://goo.gl/niaBLZ"><img style="width: 120px;" src="img/logos/lgs.png"/></a> &nbsp;&nbsp; <a href="https://www.lymchat.com"><img style="width: 60px;" src="img/logos/lym.png"/></a></p>
 
 
 <br/><center style='font-size:80%'>Maintained by Mike Fikes—<a href="https://github.com/cljsrn/cljsrn-org">submit a PR</a> if you'd like content added.</center>
