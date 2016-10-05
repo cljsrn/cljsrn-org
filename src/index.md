@@ -53,6 +53,7 @@ Blog posts pertaining to ClojureScript with React Native and associated tooling.
 
 Slides, demos, talks, _etc._ pertaining to ClojureScript with React Native and associated tooling.
 
+- [Native mobile apps with ClojureScript](https://www.youtube.com/watch?v=6IYm34nDL64) <span style='font-size:80%'>(2016-09-16 — Viktor Eriksson)</span>
 - [Experience report: Clojure on iOS with React Native](https://www.youtube.com/watch?v=UHRITqJGadU) <span style='font-size:80%'>(2016-06-02 — Jelle Akkerman)</span>
 - [My Adventures with React Native and ClojureScript](https://e-string.com/articles/adventures-react-native-clojurescript/) <span style='font-size:80%'>(2016-05-05 — Julio Barros)</span>
 - [React Native with ClojureScript](https://github.com/langford/ReactNativeWithClojureScriptPreso/blob/master/ReactNativeWithClojureScript.pdf) <span style='font-size:80%'>(2016-02-11 — Michael Langford)</span>
