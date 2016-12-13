@@ -93,6 +93,8 @@ Apps built using ClojureScript and React Native.
 - [QTTT](https://github.com/mfikes/qttt): A port of Luke Vanderhart's web app to use Om on React Native. [Try it online](https://appetize.io/app/8kap5c0m9r3wjjdm45c416rbug?device=iphone5s&scale=75&orientation=portrait&osVersion=8.4).
 - Snapability ([iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1124758443&mt=8) / [Android](https://play.google.com/store/apps/details?id=net.snapability)): An OCR app built with re-natal and re-frame.
 - [Lym](https://www.lymchat.com): Your interests backpack, built with clojure, cljs, re-natal, re-frame, and realm.
+- [Hush](https://goo.gl/fny7Q9): Make-up store on your phone - 100% React Native app built using ClojureScript + Om Next
+
 
 ## Companies
 
