@@ -30,7 +30,6 @@
 (sh "mkdir" "-p" public)
 
 (process-md "index.md")
-(process-md "roadmap.md")
 
 (sh "cp" "-r" (str src "img") public)
 (sh "cp" "-r" (str src "css") public)

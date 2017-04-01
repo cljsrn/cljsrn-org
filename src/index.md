@@ -74,10 +74,6 @@ Slides, demos, talks, _etc._ pertaining to ClojureScript with React Native and a
 - [Clojure and ClojureScript Update (React Native and Ambly portions)](https://youtu.be/NvF-GZI20L4?list=PLZdCLR02grLrKAOj8FJ1GGmNM5l7Okz0a&t=1137) <span style='font-size:80%'>(2015-04-21 — David Nolen)</span>
 - [Ambly iOS ClojureScript REPL](https://youtu.be/TVDkYZJW2MY) <span style='font-size:80%'>(2015-03-18 — Mike Fikes)</span>
 
-## Roadmap
-
-* [High Level Roadmap](roadmap.html) on where things might go; things to work on.
-
 ## Misc Repos
 
 * Matt Meintjes's [Re-Frame React Native TicTacToe](https://github.com/mjmeintjes/cljs-react-native-tictactoe).
