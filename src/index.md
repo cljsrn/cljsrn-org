@@ -21,7 +21,7 @@ Resources for developers using ClojureScript to build React Native apps.
 
 ### Boot-React-Native
 
-[boot-react-native](https://github.com/mjmeintjes/boot-react-native) uses similar JavaScript techniques for hooking into the React Native packager and providing a REPL, except packaged for [boot](http://boot-clj.com/).  It's on an older version of react-native (0.20 vs 0.27) and less actively developed, but does have some cool features such as combining the React Native packager's console output with ClojureScript compiler's.  It's also a bit more lightweight than Re-Natal.
+[boot-react-native](https://github.com/mjmeintjes/boot-react-native) uses similar JavaScript techniques for hooking into the React Native packager and providing a REPL, except packaged for [boot](http://boot-clj.com/).  It's on an older version of React Native, and less actively developed, but does have some cool features such as combining the React Native packager's console output with ClojureScript compiler's.  It's also a bit more lightweight than Re-Natal.
 
 ### Natal
 
