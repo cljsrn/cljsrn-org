@@ -25,7 +25,7 @@ Resources for developers using ClojureScript to build React Native apps.
 
 ### Natal
 
-[Natal](https://github.com/dmotz/natal) supports iOS and is based on a different approach (Ambly) that directly interacts with the device using the native ClojureScript compilation model (without the React Native packager once running): It discovers an instrumented app using Bonjour and sends the output of the compiler directly to the device using WebDAV.
+[Natal](https://github.com/dmotz/natal) supports iOS and is based on a different approach (Ambly) that directly interacts with the device using the native ClojureScript compilation model (without the React Native packager once running): It discovers an instrumented app using Bonjour and sends the output of the compiler directly to the device using WebDAV. It is not actively developed.
 
 ## Posts
 
