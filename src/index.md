@@ -23,10 +23,6 @@ Resources for developers using ClojureScript to build React Native apps.
 
 [boot-react-native](https://github.com/mjmeintjes/boot-react-native) uses similar JavaScript techniques for hooking into the React Native packager and providing a REPL, except packaged for [boot](http://boot-clj.com/).  It's on an older version of React Native, and less actively developed, but does have some cool features such as combining the React Native packager's console output with ClojureScript compiler's.  It's also a bit more lightweight than Re-Natal.
 
-### Natal
-
-[Natal](https://github.com/dmotz/natal) supports iOS and is based on a different approach (Ambly) that directly interacts with the device using the native ClojureScript compilation model (without the React Native packager once running): It discovers an instrumented app using Bonjour and sends the output of the compiler directly to the device using WebDAV. It is not actively developed.
-
 ## Posts
 
 Blog posts pertaining to ClojureScript with React Native and associated tooling.
