@@ -27,6 +27,8 @@ Resources for developers using ClojureScript to build React Native apps.
 
 Blog posts pertaining to ClojureScript with React Native and associated tooling.
 - [Writing ClojureScript Native Apps Is Easy](https://juxt.pro/blog/posts/native.html) <span style='font-size:80%'>(2017-04-20 — juxt.pro)</span>
+- [Animating react-native — take 2](https://medium.com/@grumplet/animating-react-native-take-2-b2a6368c8861) <span style='font-size:80%'>(2016-12-31 — medium.com)</span>
+- [React-Native Animated from Clojurescript](https://medium.com/@grumplet/react-native-animated-from-clojurescript-78cd53ab7aa2) <span style='font-size:80%'>(2016-12-28 — medium.com)</span>
 - [From a Clean Install of Ubuntu to Re-natal](https://gadfly361.github.io/gadfly-blog/posts-output/2016-11-13-clean-install-of-ubuntu-to-re-natal/) <span style='font-size:80%'>(2016-11-13 — gadfly361.github.io/gadfly-blog)</span>
 - [My experience with Clojurescript and React Native](https://medium.com/@tiensonqin/my-experience-with-clojurescript-and-react-native-81bb1d3bb2c4#.4pd73s8z2) <span style='font-size:80%'>(2016-08-06 — medium.com)</span>
 - [React Native: Summing up](https://medium.com/@alwxdev/react-native-summing-up-86838441d289#.jwb21cuwn) <span style='font-size:80%'>(2016-06-24 — medium.com)</span>
