@@ -108,6 +108,7 @@ body {
     font-family: 'core_sans_e', sans-serif;
     padding: 28px;
     max-width: 42em;
+    margin: auto;
 }
 
 blockquote {
