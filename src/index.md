@@ -26,9 +26,10 @@ Resources for developers using ClojureScript to build React Native apps.
 ### Expo
 [Expo](https://expo.io/) is tooling around React Native that lets you build mobile apps using only JavaScript. There is a [leiningen template](https://github.com/seantempesta/expo-cljs-template) which provides a ready-to-use setup for ClojureScript apps. The template provides REPL and Figwheel capabilities using only Clojure scripts directly in user space (as opposed to `re-natal` external tools). This, however, also makes it more difficult to update since the code has to be patched on the user repo. The Expo template is the more recent of all approaches but it supports building apps without any Android or iOS SDK, which is great to get started.
 
-## Posts
+## Posts & Articles
 
-Blog posts pertaining to ClojureScript with React Native and associated tooling.
+Blog posts and articles pertaining to ClojureScript with React Native and associated tooling.
+- [React Native in ClojureScript](https://github.com/deg/clojure-then-you-think/wiki/React-Native-in-ClojureScript) <span style='font-size:80%'>(2018-01-31 — github.com)</span>
 - [ClojureScript & React Native: bundling for release with advanced optimisations and source maps](http://austinbirch.co.uk/2017/07/28/clojurescript-and-react-native-bundling-for-release-with-advanced-optimisations.html) <span style='font-size:80%'>(2017-07-28 — austinbirch.co.uk)</span>
 - [Cleaner ClojureScript React Native Interop](http://blog.fikesfarm.com/posts/2017-07-17-cleaner-clojurescript-react-native-interop.html) <span style='font-size:80%'>(2017-07-17 — blog.fikesfarm.com)</span>
 - [Writing ClojureScript Native Apps Is Easy](https://juxt.pro/blog/posts/native.html) <span style='font-size:80%'>(2017-04-20 — juxt.pro)</span>
