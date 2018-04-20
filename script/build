@@ -1,18 +1,36 @@
-#!/bin/bash
+#!/usr/bin/env plk -Sdeps {:deps,{markdown-clj,{:mvn/version,"0.9.85"}}} -K
+(ns build.core
+  (:require [markdown.core :refer [md->html]]
+            [planck.core :refer [slurp spit]]
+            [planck.shell :refer [sh]]))
 
-type planck >/dev/null 2>&1 || { echo >&2 "planck is required. See http://planck.fikesfarm.com  Aborting."; exit 1; }
+(def src "src/")
+(def target "target/")
+(def public (str target "public/"))
 
-MARKDOWN_CLJ_VER="0.9.85"
+(def preamble (slurp (str src "preamble.html")))
+(def postamble (slurp (str src "postamble.html")))
 
-MARKDOWN_CLJ_JAR=~/.m2/repository/markdown-clj/markdown-clj/$MARKDOWN_CLJ_VER/markdown-clj-$MARKDOWN_CLJ_VER.jar
+(defn wrap-html
+  [body]
+  (str preamble body postamble))
 
-if [ ! -f $MARKDOWN_CLJ_JAR ]; then
-    pushd script
-    type lein >/dev/null 2>&1 || { echo >&2 "lein is required. See http://leiningen.org  Aborting."; exit 1; }
-    lein deps
-    popd
-    # Shouldn't have to blow away cache. Perhaps this is a bug in Planck.
-    rm -rf script/cache/*
-fi
+(defn md-to-html
+  [in out]
+  (spit out
+    (wrap-html
+      (md->html (slurp in)))))
 
-planck -c $MARKDOWN_CLJ_JAR -kscript/cache script/build.cljs
+(defn process-md
+  [in]
+  (md-to-html
+    (str src in) (str public (subs in 0 (- (count in) 2)) "html")))
+
+(sh "mkdir" "-p" target)
+(sh "rm" "-rf" public)
+(sh "mkdir" "-p" public)
+
+(process-md "index.md")
+
+(sh "cp" "-r" (str src "img") public)
+(sh "cp" "-r" (str src "css") public)

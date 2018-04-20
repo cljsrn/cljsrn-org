@@ -3,3 +3,4 @@ script/cache/*.js
 script/cache/*.json
 script/target
 target
+/.planck_cache
