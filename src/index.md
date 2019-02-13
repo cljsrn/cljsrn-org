@@ -34,6 +34,7 @@ Resources for developers using ClojureScript to build React Native apps.
 
 Blog posts and articles pertaining to ClojureScript with React Native and associated tooling.
 
+- [How to create React Native project with ClojureScript and Android Studio Emulator on Fedora (Linux)](http://anish-patil.blogspot.com/2019/02/how-to-create-react-native-project-with.html) <span style='font-size:80%'>(2019-02-12 — anish-patil.blogspot.com)</span>
 - [Developing React Native applications in ClojureScript](https://www.upwork.com/blog/2018/11/developing-react-native-applications-in-clojurescript/) <span style='font-size:80%'>(2018-11-29 — upwork.com)</span>
 - [App Group Data Sync with ClojureScript and Re-Frame](http://increasinglyfunctional.com/2018/10/31/app-group-data-sync-with-clojurescript-and-re-frame.html) <span style='font-size:80%'>(2018-10-31 — increasinglyfunctional.com)</span>
 - [I Published an iOS App with ClojureScript and React Native](http://increasinglyfunctional.com/2018/08/17/i-published-an-ios-app-with-clojurescript-and-react-native.html) <span style='font-size:80%'>(2018-08-17 — increasinglyfunctional.com)</span>
