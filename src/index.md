@@ -118,6 +118,7 @@ Companies using ClojureScript and React Native to build solutions.
 <a href="https://status.im"><img style="width: 60px; margin: 10px 10px" src="img/logos/status.png"/></a> 
 <a href="https://fullcontact.com"><img style="width: 189px; margin: 10px 10px" src="img/logos/fullcontact.png"/></a>
 <a href="https://ledgrinc.com"><img style="width: 100px; margin: 10px 10px" src="img/logos/ledgr.png"/></a>
+<a href="https://vouchinc.net"><img style="width: 74px; margin: 10px 10px" src="img/logos/vouch.png"/></a>
 </center>
 </p>
 
