@@ -113,7 +113,6 @@ Companies using ClojureScript and React Native to build solutions.
 
 <p>
 <center>
-<a href="http://fig.ly"><img style="width: 90px; margin: 10px 10px" src="img/logos/figly.png"/></a>
 <a href="https://www.iamfy.co"><img style="width: 60px; margin: 10px 10px" src="img/logos/fy.png"/></a>
 <a href="http://goo.gl/niaBLZ"><img style="width: 120px; margin: 10px 15px" src="img/logos/lgs.png"/></a> 
 <a href="https://status.im"><img style="width: 60px; margin: 10px 10px" src="img/logos/status.png"/></a> 
