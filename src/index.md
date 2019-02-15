@@ -113,9 +113,9 @@ Companies using ClojureScript and React Native to build solutions.
 
 <p>
 <center>
-<a href="https://www.iamfy.co"><img style="width: 60px; margin: 10px 10px" src="img/logos/fy.png"/></a>
+<a href="https://www.iamfy.co"><img style="width: 60px; margin: 10px 15px" src="img/logos/fy.png"/></a>
 <a href="http://goo.gl/niaBLZ"><img style="width: 120px; margin: 10px 15px" src="img/logos/lgs.png"/></a> 
-<a href="https://status.im"><img style="width: 60px; margin: 10px 10px" src="img/logos/status.png"/></a> 
+<a href="https://status.im"><img style="width: 60px; margin: 10px 15px" src="img/logos/status.png"/></a> 
 <a href="https://fullcontact.com"><img style="width: 189px; margin: 10px 10px" src="img/logos/fullcontact.png"/></a>
 <a href="https://ledgrinc.com"><img style="width: 100px; margin: 10px 10px" src="img/logos/ledgr.png"/></a>
 <a href="https://vouchinc.net"><img style="width: 74px; margin: 10px 10px" src="img/logos/vouch.png"/></a>
