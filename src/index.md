@@ -111,7 +111,15 @@ Apps built using ClojureScript and React Native.
 
 Companies using ClojureScript and React Native to build solutions.
 
-<p><a href="http://fig.ly"><img style="width: 90px;" src="img/logos/figly.png"/></a> &nbsp;&nbsp; <a href="https://www.iamfy.co"><img style="width: 60px;" src="img/logos/fy.png"/></a> &nbsp;&nbsp; <a href="http://goo.gl/niaBLZ"><img style="width: 120px;" src="img/logos/lgs.png"/></a> &nbsp;&nbsp; <a href="https://status.im"><img style="width: 60px;" src="img/logos/status.png"/></a><a href="https://fullcontact.com"><img style="width: 189px;" src="img/logos/fullcontact.png"/></a></p>
+<p>
+<center>
+<a href="http://fig.ly"><img style="width: 90px; margin: 10px 10px" src="img/logos/figly.png"/></a>
+<a href="https://www.iamfy.co"><img style="width: 60px; margin: 10px 10px" src="img/logos/fy.png"/></a>
+<a href="http://goo.gl/niaBLZ"><img style="width: 120px; margin: 10px 15px" src="img/logos/lgs.png"/></a> 
+<a href="https://status.im"><img style="width: 60px; margin: 10px 10px" src="img/logos/status.png"/></a> 
+<a href="https://fullcontact.com"><img style="width: 189px; margin: 10px 10px" src="img/logos/fullcontact.png"/></a>
+</center>
+</p>
 
 
 <br/><center style='font-size:80%'>Maintained by Mike Fikes—<a href="https://github.com/cljsrn/cljsrn-org">submit a PR</a> if you'd like content added.</center>
