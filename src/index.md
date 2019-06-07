@@ -101,6 +101,7 @@ Apps built using ClojureScript and React Native.
 - [Hush](https://goo.gl/fny7Q9): Make-up store on your phone - 100% React Native app built using ClojureScript + Om Next
 - [Status](https://status.im): a web3 browser, messenger, and gateway to a decentralised world of Ethereum. re-natal + re-frame + cljs + golang
 - [FullContact](https://fullcontact.com): Contact management apps that help you be awesome with people. Parts of the apps built with React Native + ClojureScript + re-natal + re-frame + figwheel
+- [Riverford](https://itunes.apple.com/gb/app/riverford/id1305077010?mt=8): An app for managing your Riverford order of seasonal, organic veg. App built with React Native + ClojureScript + re-frame + expo
 
 
 ## Companies
@@ -117,6 +118,7 @@ Companies using ClojureScript and React Native to build solutions.
 <a href="https://vouchinc.net"><img style="width: 74px; margin: 10px 10px" src="img/logos/vouch.png"/></a>
 <a href="https://www.condense.com.au"><img style="width: 150px; margin: 10px 15px" src="img/logos/condense.png"/></a>
 <a href="https://pilloxa.com"><img style="width: 150px; margin: 10px 10px" src="img/logos/pilloxa.png"/></a>
+<a href="https://www.riverford.co.uk"><img style="width: 150px; margin: 10px 10px" src="img/logos/riverford.png"/></a>
 </center>
 </p>
 
