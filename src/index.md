@@ -30,10 +30,10 @@ Resources for developers using ClojureScript to build React Native apps.
 
 Blog posts and articles pertaining to ClojureScript with React Native and associated tooling.
 
-- [How to debug react-native app on Android Avd using clojurescript](https://anish-patil.blogspot.com/2019/06/how-to-debug-react-native-app-on.html)
-- [Using shadow-cljs to compile React Native for iOS on GNU/Linux](https://www.blog.nodrama.io/react-native-xcode-linux/)
-- [Developing mobile iOS applications on GNU/Linux with Re-Natal](https://www.blog.nodrama.io/running-xcode-on-linux/)
+- [How to debug react-native app on Android Avd using clojurescript](https://anish-patil.blogspot.com/2019/06/how-to-debug-react-native-app-on.html) <span style='font-size:80%'>(2019-06-16 - anish-patil.blogspot.com)</span>
+- [Using shadow-cljs to compile React Native for iOS on GNU/Linux](https://www.blog.nodrama.io/react-native-xcode-linux/) <span style='font-size:80%'>(2019-06-11 - blog.nodrama.com)</span>
 - [HTTP Fx for Re-Frame on React Native](https://increasinglyfunctional.com/2019/06/25/http-fx-for-re-frame-on-react-native.html) <span style='font-size:80%'>(2019-06-25 - increasinglyfunctional.com)</span>
+- [Developing mobile iOS applications on GNU/Linux with Re-Natal](https://www.blog.nodrama.io/running-xcode-on-linux/) <span style='font-size:80%'>(2019-04-15 - blog.nodrama.com)</span>
 - [Getting started with React Native Navigation and ClojureScript](https://anish-patil.blogspot.com/2019/02/getting-started-with-react-native.html) <span style='font-size:80%'>(2019-02-13 — anish-patil.blogspot.com)</span>
 - [How to create React Native project with ClojureScript and Android Studio Emulator on Fedora (Linux)](http://anish-patil.blogspot.com/2019/02/how-to-create-react-native-project-with.html) <span style='font-size:80%'>(2019-02-12 — anish-patil.blogspot.com)</span>
 - [Developing React Native applications in ClojureScript](https://www.upwork.com/blog/2018/11/developing-react-native-applications-in-clojurescript/) <span style='font-size:80%'>(2018-11-29 — upwork.com)</span>
