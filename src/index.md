@@ -19,6 +19,10 @@ Resources for developers using ClojureScript to build React Native apps.
 
 ## Using
 
+### react-native-figwheel-bridge
+
+[react-native-figwheel-bridge](https://github.com/bhauman/react-native-figwheel-bridge) is a simple approach to setup React Native with ClojureScript + Figwheel + REPL on top of a standard React Native project. Follow the readme, the approach seems to work great as described.  
+
 ### Re-Natal
 
 [Re-Natal](https://github.com/drapanjanas/re-natal) is the most popular and most actively developed. The consensus on #cljsrn slack channel is that it's probably the way to go. It supports up-to-date versions of React Native, Reagent and Om Next, iOS and Android, Figwheel, and has a nice way to require native packages and static images.
