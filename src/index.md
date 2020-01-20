@@ -109,6 +109,7 @@ Apps built using ClojureScript and React Native.
 - [Status](https://status.im): a web3 browser, messenger, and gateway to a decentralised world of Ethereum. re-natal + re-frame + cljs + golang
 - [FullContact](https://fullcontact.com): Contact management apps that help you be awesome with people. Parts of the apps built with React Native + ClojureScript + re-natal + re-frame + figwheel
 - [Riverford](https://itunes.apple.com/gb/app/riverford/id1305077010?mt=8): An app for managing your Riverford order of seasonal, organic veg. App built with React Native + ClojureScript + re-frame + expo
+- [Scholli](https://gitlab.pollet-computer.de/polly/scholli) ([Android](https://play.google.com/store/apps/details?id=de.pollet_computer.shelly) / [iOS](https://apps.apple.com/app/scholli/id1493194083)): Non-cloud app to control [Shelly devices](https://shelly.cloud/), based on re-natal + reagent.
 
 
 ## Companies
