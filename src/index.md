@@ -92,6 +92,7 @@ Slides, demos, talks, _etc._ pertaining to ClojureScript with React Native and a
 
 ## Misc Repos
 
+* Marko Kocic's react-native, native-base and shadow-cljs [Clojurescript Todo app example](https://github.com/markokocic/rn-native-base-example-todo)
 * Matt Meintjes's [Re-Frame React Native TicTacToe](https://github.com/mjmeintjes/cljs-react-native-tictactoe).
 * Nicholas Kariniemi's [proof of concept](https://github.com/nicholaskariniemi/ReactNativeCljs) for compiling ClojureScript for use on React Native for Android.
 * Artem Yarulin's [react-native-eval](https://github.com/artemyarulin/react-native-eval).
