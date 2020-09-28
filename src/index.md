@@ -23,6 +23,10 @@ Resources for developers using ClojureScript to build React Native apps.
 
 [Re-Natal](https://github.com/drapanjanas/re-natal) is the most popular and most actively developed. The consensus on #cljsrn slack channel is that it's probably the way to go. It supports up-to-date versions of React Native, Reagent and Om Next, iOS and Android, Figwheel, and has a nice way to require native packages and static images.
 
+### Krell
+
+[Krell](https://github.com/vouch-opensource/krell) is a stand-alone approach which relies on the standard ClojureScript compiler and tooling to make developing React Native apps simpler and easier. Krell uses minimal deps.edn and build.edn config to establish a clean REPL-based workflow, embracing established ClojureScript development idioms.
+
 ### react-native-figwheel-bridge
 
 [react-native-figwheel-bridge](https://github.com/bhauman/react-native-figwheel-bridge) is a simple approach to setup React Native with ClojureScript + Figwheel + REPL on top of a standard React Native project. Follow the readme, the approach seems to work great as described.  
