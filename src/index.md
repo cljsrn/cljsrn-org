@@ -19,13 +19,13 @@ Resources for developers using ClojureScript to build React Native apps.
 
 ## Using
 
-### react-native-figwheel-bridge
-
-[react-native-figwheel-bridge](https://github.com/bhauman/react-native-figwheel-bridge) is a simple approach to setup React Native with ClojureScript + Figwheel + REPL on top of a standard React Native project. Follow the readme, the approach seems to work great as described.  
-
 ### Re-Natal
 
 [Re-Natal](https://github.com/drapanjanas/re-natal) is the most popular and most actively developed. The consensus on #cljsrn slack channel is that it's probably the way to go. It supports up-to-date versions of React Native, Reagent and Om Next, iOS and Android, Figwheel, and has a nice way to require native packages and static images.
+
+### react-native-figwheel-bridge
+
+[react-native-figwheel-bridge](https://github.com/bhauman/react-native-figwheel-bridge) is a simple approach to setup React Native with ClojureScript + Figwheel + REPL on top of a standard React Native project. Follow the readme, the approach seems to work great as described.  
 
 ### Expo
 [Expo](https://expo.io/) is tooling around React Native that lets you build mobile apps using only JavaScript. There is a [leiningen template](https://github.com/seantempesta/expo-cljs-template) which provides a ready-to-use setup for ClojureScript apps. The template provides REPL and Figwheel capabilities using only Clojure scripts directly in user space (as opposed to `re-natal` external tools). This, however, also makes it more difficult to update since the code has to be patched on the user repo. The Expo template is the more recent of all approaches but it supports building apps without any Android or iOS SDK, which is great to get started.
