@@ -21,7 +21,7 @@ Resources for developers using ClojureScript to build React Native apps.
 
 ### Re-Natal
 
-[Re-Natal](https://github.com/drapanjanas/re-natal) is the most popular and most actively developed. The consensus on #cljsrn slack channel is that it's probably the way to go. It supports up-to-date versions of React Native, Reagent and Om Next, iOS and Android, Figwheel, and has a nice way to require native packages and static images.
+[Re-Natal](https://github.com/drapanjanas/re-natal) is the original and most-referenced stack for building with ClojureScript and React Native, but it is no longer actively developed and is behind React Native by several minor versions.
 
 ### Krell
 
