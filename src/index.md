@@ -71,6 +71,7 @@ Blog posts and articles pertaining to ClojureScript with React Native and associ
 Slides, demos, talks, _etc._ pertaining to ClojureScript with React Native and associated tooling.
 
 - [Screencast: Getting started with React Native + ClojureScript](https://youtu.be/QsUj7HO5xDg) <span style='font-size:80%'>(2020-11-29 — Peter Strömberg aka PEZ)</span>
+- [Developing real world React Native application from scratch, clojurescript and re-frame](https://youtu.be/5k2T126JFCY) <span style='font-size:80%'>(2020-11-30 — Andre S. aka Flexsurfer)</span>
 - [Building Mobile Applications with Clojurescript](https://singaporeinformer.com/293607/building-mobile-applications-with-clojurescript-singapore-clojure-meetup-singapore-video/) <span style='font-size:80%'>(2018-04-19 — Binny Arora)</span>
 - [Functional Mobility: React Native with ClojureScript](http://increasinglyfunctional.com/2017/10/06/clojurescript-react-native-talk/) <span style='font-size:80%'>(2017-10-06 — Joshua Miller)</span>
 - [REPL driven mobile development with Clojure(script)](https://www.youtube.com/watch?v=toGEegAzrZA) <span style='font-size:80%'>(2017-09-13 - Srihari Sriraman)</span>
@@ -102,6 +103,7 @@ Slides, demos, talks, _etc._ pertaining to ClojureScript with React Native and a
 * Nicholas Kariniemi's [proof of concept](https://github.com/nicholaskariniemi/ReactNativeCljs) for compiling ClojureScript for use on React Native for Android.
 * Artem Yarulin's [react-native-eval](https://github.com/artemyarulin/react-native-eval).
 * Viktor Eriksson's [re-navigate](https://github.com/vikeri/re-navigate), an example of using React Native's new Navigation with re-frame/re-natal
+* Peter Strömberg's [rn-rf-shadow](https://github.com/PEZ/rn-rf-shadow), a *Getting Started in 3 minutes* example, leveraging shadow-cljs, Expo, reagent, and re-frame to build an app for iOS, Android and web browsers.
 
 ## Apps
 
