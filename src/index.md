@@ -38,6 +38,7 @@ Resources for developers using ClojureScript to build React Native apps.
 
 Blog posts and articles pertaining to ClojureScript with React Native and associated tooling.
 
+- [Writing Mobile apps in ClojureScript in 2021](https://www.juxt.pro/blog/clojurescript-native-apps-2021)  <span style='font-size:80%'>(2021-08-13 - juxt.pro)</span>
 - [How to debug react-native app on Android Avd using clojurescript](https://anish-patil.blogspot.com/2019/06/how-to-debug-react-native-app-on.html) <span style='font-size:80%'>(2019-06-16 - anish-patil.blogspot.com)</span>
 - [Using shadow-cljs to compile React Native for iOS on GNU/Linux](https://www.blog.nodrama.io/react-native-xcode-linux/) <span style='font-size:80%'>(2019-06-11 - blog.nodrama.com)</span>
 - [HTTP Fx for Re-Frame on React Native](https://increasinglyfunctional.com/2019/06/25/http-fx-for-re-frame-on-react-native.html) <span style='font-size:80%'>(2019-06-25 - increasinglyfunctional.com)</span>
