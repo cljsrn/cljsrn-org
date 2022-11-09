@@ -25,7 +25,7 @@ Resources for developers using ClojureScript to build React Native apps.
 
 ### Krell
 
-[Krell](https://github.com/vouch-opensource/krell) is a stand-alone approach which relies on the standard ClojureScript compiler and tooling to make developing React Native apps simpler and easier. Krell uses minimal deps.edn and build.edn config to establish a clean REPL-based workflow, embracing established ClojureScript development idioms.
+[Krell](https://github.com/vouch-opensource/krell) is a stand-alone approach which relies on the standard ClojureScript compiler and tooling to make developing React Native apps simpler and easier. Krell uses minimal deps.edn and build.edn config to establish a clean REPL-based workflow, embracing established ClojureScript development idioms. There is a [React Native template](https://github.com/joshuamiller/react-native-template-cljs-krell-storybook) that provides a one liner for setting up a modern environment with Krell, ClojureScript, and Storybook.
 
 ### react-native-figwheel-bridge
 
@@ -38,6 +38,7 @@ Resources for developers using ClojureScript to build React Native apps.
 
 Blog posts and articles pertaining to ClojureScript with React Native and associated tooling.
 
+- [ClojureScript and React Native in 2022](https://increasinglyfunctional.com/2022/11/07/clojurescript-react-native-2022.html) <span style='font-size:80%'>(2022-11-07 - increasinglyfunctional.com)</span>
 - [How to debug react-native app on Android Avd using clojurescript](https://anish-patil.blogspot.com/2019/06/how-to-debug-react-native-app-on.html) <span style='font-size:80%'>(2019-06-16 - anish-patil.blogspot.com)</span>
 - [Using shadow-cljs to compile React Native for iOS on GNU/Linux](https://www.blog.nodrama.io/react-native-xcode-linux/) <span style='font-size:80%'>(2019-06-11 - blog.nodrama.com)</span>
 - [HTTP Fx for Re-Frame on React Native](https://increasinglyfunctional.com/2019/06/25/http-fx-for-re-frame-on-react-native.html) <span style='font-size:80%'>(2019-06-25 - increasinglyfunctional.com)</span>
@@ -119,6 +120,7 @@ Apps built using ClojureScript and React Native.
 - [Riverford](https://itunes.apple.com/gb/app/riverford/id1305077010?mt=8): An app for managing your Riverford order of seasonal, organic veg. App built with React Native + ClojureScript + re-frame + expo
 - [Scholli](https://gitlab.pollet-computer.de/polly/scholli) ([Android](https://play.google.com/store/apps/details?id=de.pollet_computer.shelly) / [iOS](https://apps.apple.com/app/scholli/id1493194083)): Non-cloud app to control [Shelly devices](https://shelly.cloud/), based on re-natal + reagent.
 - [Ezmonic](https://ezmonic.com/) ([Android](https://play.google.com/store/apps/details?id=com.ezmonic) / [iOS](https://apps.apple.com/us/app/ezmonic-lite/id1495848478)): Built with shadow-cljs, re-frame, React Native, and ClojureScript, Ezmonic helps you remember long numbers by automatically finding the shortest [Major System](https://en.wikipedia.org/wiki/Mnemonic_major_system) mnemonic phrase.
+- [Outboard](https://outboard.app/) ([iOS](https://itunes.apple.com/app/id1361413779?mt=8&at=11l7ss)): An app for saving geographical locations, built with Krell, re-frame, Storybook, and Tailwind-RN
 
 ## Companies
 
