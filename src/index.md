@@ -44,14 +44,13 @@ Blog posts and articles pertaining to ClojureScript with React Native and associ
 - [Developing mobile iOS applications on GNU/Linux with Re-Natal](https://www.blog.nodrama.io/running-xcode-on-linux/) <span style='font-size:80%'>(2019-04-15 - blog.nodrama.com)</span>
 - [Getting started with React Native Navigation and ClojureScript](https://anish-patil.blogspot.com/2019/02/getting-started-with-react-native.html) <span style='font-size:80%'>(2019-02-13 — anish-patil.blogspot.com)</span>
 - [How to create React Native project with ClojureScript and Android Studio Emulator on Fedora (Linux)](http://anish-patil.blogspot.com/2019/02/how-to-create-react-native-project-with.html) <span style='font-size:80%'>(2019-02-12 — anish-patil.blogspot.com)</span>
-- [Developing React Native applications in ClojureScript](https://www.upwork.com/blog/2018/11/developing-react-native-applications-in-clojurescript/) <span style='font-size:80%'>(2018-11-29 — upwork.com)</span>
 - [App Group Data Sync with ClojureScript and Re-Frame](http://increasinglyfunctional.com/2018/10/31/app-group-data-sync-with-clojurescript-and-re-frame.html) <span style='font-size:80%'>(2018-10-31 — increasinglyfunctional.com)</span>
 - [I Published an iOS App with ClojureScript and React Native](http://increasinglyfunctional.com/2018/08/17/i-published-an-ios-app-with-clojurescript-and-react-native.html) <span style='font-size:80%'>(2018-08-17 — increasinglyfunctional.com)</span>
 - [React Native & ClojureScript - An obscure stack](http://sulami.github.io/posts/react-native-and-clojurescript/) <span style='font-size:80%'>(2018-06-15 — sulami.github.io)</span>
 - [React Native in ClojureScript](https://github.com/deg/clojure-then-you-think/wiki/React-Native-in-ClojureScript) <span style='font-size:80%'>(2018-01-31 — github.com)</span>
 - [ClojureScript & React Native: bundling for release with advanced optimisations and source maps](http://austinbirch.co.uk/2017/07/28/clojurescript-and-react-native-bundling-for-release-with-advanced-optimisations.html) <span style='font-size:80%'>(2017-07-28 — austinbirch.co.uk)</span>
 - [Cleaner ClojureScript React Native Interop](http://blog.fikesfarm.com/posts/2017-07-17-cleaner-clojurescript-react-native-interop.html) <span style='font-size:80%'>(2017-07-17 — blog.fikesfarm.com)</span>
-- [Writing ClojureScript Native Apps Is Easy](https://juxt.pro/blog/posts/native.html) <span style='font-size:80%'>(2017-04-20 — juxt.pro)</span>
+- [Writing ClojureScript Native Apps Is Easy](https://juxt.pro/blog/native/) <span style='font-size:80%'>(2017-04-20 — juxt.pro)</span>
 - [Animating react-native — take 2](https://medium.com/@grumplet/animating-react-native-take-2-b2a6368c8861) <span style='font-size:80%'>(2016-12-31 — medium.com)</span>
 - [React-Native Animated from Clojurescript](https://medium.com/@grumplet/react-native-animated-from-clojurescript-78cd53ab7aa2) <span style='font-size:80%'>(2016-12-28 — medium.com)</span>
 - [From a Clean Install of Ubuntu to Re-natal](https://gadfly361.github.io/gadfly-blog/posts-output/2016-11-13-clean-install-of-ubuntu-to-re-natal/) <span style='font-size:80%'>(2016-11-13 — gadfly361.github.io/gadfly-blog)</span>
@@ -60,7 +59,7 @@ Blog posts and articles pertaining to ClojureScript with React Native and associ
 - [Create iOS apps on Linux using React Native and ClojureScript](https://johannesgu.wordpress.com/2016/03/28/create-ios-apps-on-linux-using-react-native-and-clojurescript/) <span style='font-size:80%'>(2016-03-28 — johannesgu.wordpress.com)</span>
 - [Yes, we can. Cross-platform native mobile applications development](https://medium.com/@alwxdev/yes-we-can-cross-platform-native-mobile-applications-development-e315300d011e#.pd3zwhfam) <span style='font-size:80%'>(2016-01-28 — medium.com)</span>
 - [ClojureScript React Native Desktop](http://blog.fikesfarm.com/posts/2015-11-19-clojurescript-react-native-desktop.html) <span style='font-size:80%'>(2015-11-19 — blog.fikesfarm.com)</span>
-- [Going native with om.next](https://dvcrn.github.io/clojurescript/react/2015/10/27/going-native-with-om-next.html) <span style='font-size:80%'>(2015-10-27 — dvcrn.github.io)</span>
+- [Going native with om.next](https://david.coffee/going-native-with-om.next/) <span style='font-size:80%'>(2015-10-27 — dvcrn.github.io)</span>
 - [Using React Native Components in ClojureScript](http://blog.fikesfarm.com/posts/2015-07-24-using-react-native-components-in-clojurescript.html) <span style='font-size:80%'>(2015-07-24 — blog.fikesfarm.com)</span>
 - [Reagent React Native](http://blog.fikesfarm.com/posts/2015-07-20-reagent-react-native.html) <span style='font-size:80%'>(2015-07-20 — blog.fikesfarm.com)</span>
 - [Develop Now with ClojureScript for React Native](http://blog.fikesfarm.com/posts/2015-07-19-develop-now-with-clojurescript-for-react-native.html) <span style='font-size:80%'>(2015-07-19 — blog.fikesfarm.com)</span>
