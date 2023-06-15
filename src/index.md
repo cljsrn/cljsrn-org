@@ -118,6 +118,7 @@ Apps built using ClojureScript and React Native.
 - [Riverford](https://itunes.apple.com/gb/app/riverford/id1305077010?mt=8): An app for managing your Riverford order of seasonal, organic veg. App built with React Native + ClojureScript + re-frame + expo
 - [Scholli](https://gitlab.pollet-computer.de/polly/scholli) ([Android](https://play.google.com/store/apps/details?id=de.pollet_computer.shelly) / [iOS](https://apps.apple.com/app/scholli/id1493194083)): Non-cloud app to control [Shelly devices](https://shelly.cloud/), based on re-natal + reagent.
 - [Ezmonic](https://ezmonic.com/) ([Android](https://play.google.com/store/apps/details?id=com.ezmonic) / [iOS](https://apps.apple.com/us/app/ezmonic-lite/id1495848478)): Built with shadow-cljs, re-frame, React Native, and ClojureScript, Ezmonic helps you remember long numbers by automatically finding the shortest [Major System](https://en.wikipedia.org/wiki/Mnemonic_major_system) mnemonic phrase.
+- [FINARKY](https://finarky.com/) ([Android](https://play.google.com/store/apps/details?id=com.finarky) / [iOS](https://apps.apple.com/app/finarky/id1625588940)): Portfolio tracker with Personal Rate of Return (aka IRR), probably the best and quickest way to measure investments performance. Built with ClojureScript + Krell + Reagent + React Native.
 
 ## Companies
 
